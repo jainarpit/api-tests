@@ -13,11 +13,11 @@ This is api-automation framework for testing the user service
 2. Gradle
 3. Json-Schema-Validator
 
-####Application Under Test
+#### Application Under Test
 
 By Default the application run on http://localhost:8080
 
-####How to Run test
+#### How to Run test
 
 Run command: 
 ``./gradlew clean test``
