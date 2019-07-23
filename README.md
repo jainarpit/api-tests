@@ -7,6 +7,8 @@ This is api-automation framework for testing the user service
 1. Clone this repository
 2. Pull the docker image of the application by running:<br>
 ```docker pull jarpit/assignment:v3```
+3. Run the docker image by running: <br>
+``` docker run -p 8080:8080 jarpit/assignment:v3 ```
 
 #### Tools and Libraries
 1. Rest-Assured
